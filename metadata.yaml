@@ -1,5 +1,5 @@
 _repo: Stories-of-the-East_60239
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Carrington, Dora de Houghton
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '50866'
     url: http://www.gutenberg.org/2009/agents/50866
     wikipedia: https://en.wikipedia.org/wiki/Dora_Carrington
+covers:
+- cover_type: archival
+  image_path: 60239-h/images/stories_cover.jpg
 creator:
   author:
     agent_name: Woolf, Leonard
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4565
     wikipedia: http://en.wikipedia.org/wiki/Leonard_Woolf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60239#Stories-of-the-East
 gutenberg_issued: '2019-09-06'
 gutenberg_type: Text
 identifiers:
